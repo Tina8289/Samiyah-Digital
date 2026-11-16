@@ -21,6 +21,9 @@ Samiyah Digital 是面向全球各行业客户的独立数字科技服务品牌�
 - [SD-WEB-001 网站信息架构](docs/SD-WEB-001-website-architecture.md)
 - [SD-OS-001 数字业务总框架](docs/SD-OS-001-business-system-architecture.md)
 - [DECISIONS 决策与变更记录](docs/DECISIONS.md)
+- [SD-DS-001 国际化设计系统（Draft）](docs/SD-DS-001-design-system.md)
+- [SD-WEB-002 Phase 1 页面与转化 PRD（Draft）](docs/SD-WEB-002-phase1-page-prd.md)
+- [SD-PLAN-001 实施任务与验收路线图（Draft）](docs/SD-PLAN-001-delivery-roadmap.md)
 
 ## 状态
 这些文档是会话讨论形成的初始设计基线，并非已开发或正式上线的功能。用户明确确认的规则标为「已确认」；分类、技术、路线图及商业方案属于「规划建议」，需要后续逐项评审。
